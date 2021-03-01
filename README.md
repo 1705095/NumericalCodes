@@ -8,3 +8,13 @@ Codes for:
 4. Root Finding ( Secant, False Position)
 5. LU decomposition
 6. Function Expansion
+
+# Installation Guide:
+
+Run the following commands / Install following libraries:
+
+    pip install matplotlib
+   <br>
+   
+
+    pip install numpy
